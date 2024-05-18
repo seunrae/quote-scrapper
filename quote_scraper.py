@@ -45,6 +45,4 @@ for author_name in authors_set:
 	print()
 
 
-# name = "seun. a"
-# print(name.strip("n"))
 driver.quit()

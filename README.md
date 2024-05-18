@@ -1,4 +1,4 @@
-# Project Title
+# Quote Scrapper Using Python Selenium
 
 A Python code using Selenium to scrape 10-20 distinct quote authors from [https://quotes.toscrape.com/](https://quotes.toscrape.com/)
 (Name, nationality, description, date of birth) using Chrome Driver.
